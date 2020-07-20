@@ -8,13 +8,15 @@ author: Oscar Johnson, Thomas Sylvester, Filip Skacanyi, Jake Sumecki
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S_Whd7VdI8o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+### About
 Set in a post-apocalyptic future where the publics rampant demand for more extreme forms of entertainment is at an all-time high and
 where all other sports are deemed too safe for work. 2 Players battle it out in the ultimate sport, football with cars!
 
 Race for the ball, tactically utilize the boost system to outrun your opponent, shoot or save game changing goals.
 Slothit League is high octane, adrenaline packed and out now!
 
-Slothit League includes;
+### Slothit League includes;
 - Exhilarating 1980's gameplay
 - Graphics and audio compliant with Atari 2600 standards
 - A fully featured game manual with meta achievements
