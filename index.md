@@ -1,24 +1,26 @@
-## Welcome to my portfolio!
+# Welcome to my portfolio!
+
+## Recent Projects 
+
+### [Neural networks and NPCs](/pdf/sample_presentation.pdf)
+My final year project: Using neural networks to train NPC behaviour.
+
+<img src="https://miro.medium.com/max/1063/0*u-AnjlGU9IxM5_Ju.png" width=480>
 
 ---
 
-### Recent Projects 
-
-[Slothit League](/Slothit-League)
+### [Slothit League](/_pages/Slothit-League)
 
 A 1980's demake of the popular video game 'Rocket League'
 
 <img src="images/sloth_thumb.png">
 
 ---
-[Neural networks and NPCs](/pdf/sample_presentation.pdf)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Space Place](http://example.com/)
+Cosmic horror in 5 minutes!
 
----
-[Project 3 Title](http://example.com/)
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/space_place.PNG" width=480/>
 
 ---
 
