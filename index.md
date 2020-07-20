@@ -8,7 +8,7 @@
 
 A 1980's demake of the popular video game 'Rocket League'
 
-<img src="images/sloth_thumb.png?raw=true" width=480/>
+<img src="images/sloth_thumb.png" width=480>
 
 ---
 [Neural networks and NPCs](/pdf/sample_presentation.pdf)
