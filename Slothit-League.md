@@ -2,8 +2,8 @@
 layout: post
 title:  "Slothit League"
 date:   2018/04/15
+author: Oscar Johnson, Thomas Sylvester, Filip Skacanyi, Jake Sumecki
 ---
-# Slothit League
 ## Rocket League made in the 1980's!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S_Whd7VdI8o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
