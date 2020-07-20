@@ -11,7 +11,7 @@ A 1980's demake of the popular video game 'Rocket League'
 <img src="images/sloth_thumb.png?raw=true" width=480/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Neural networks and NPCs](/pdf/sample_presentation.pdf)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
