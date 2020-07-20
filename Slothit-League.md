@@ -2,13 +2,6 @@
 layout: post
 title:  "Slothit League"
 date:   2018/04/15
-excerpt: "A game jam demake for Rocket League on the Atari 2600"
-project: true
-tag:
-- project
-- Slothit League
-- CGD
-comments: true
 ---
 # Slothit League
 ## Rocket League made in the 1980's!
