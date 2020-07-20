@@ -5,11 +5,11 @@
 ### [Neural networks and NPCs](/pdf/sample_presentation.pdf)
 My final year project: Using neural networks to train NPC behaviour.
 
-<img src="https://miro.medium.com/max/1063/0*u-AnjlGU9IxM5_Ju.png" width=480>
+<img src="images/nn.png">
 
 ---
 
-### [Slothit League](/_pages/Slothit-League)
+### [Slothit League](/_pages/Slothit-League.md)
 
 A 1980's demake of the popular video game 'Rocket League'
 
@@ -17,10 +17,10 @@ A 1980's demake of the popular video game 'Rocket League'
 
 ---
 
-### [Space Place](http://example.com/)
+### [Space Place](/_pages/Space-Place-Project.md)
 Cosmic horror in 5 minutes!
 
-<img src="images/space_place.PNG" width=480/>
+<img src="images/space_place.PNG">
 
 ---
 
@@ -31,10 +31,5 @@ Cosmic horror in 5 minutes!
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
-
----
-
-
-
 
 ---
