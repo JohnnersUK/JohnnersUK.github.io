@@ -22,9 +22,10 @@ galleries:
 ---
 
 ## Cosmic horror in 5 minutes
-Space place is a short set piece of an puzzle platformer set on an abandoned space ship. Taking inspiration from alien, dead space and classic zelda titles, users awake to find their ship void of life and near self-destruct.
+Space place is a short set piece of an puzzle platformer developed in Unreal Engine 4. Taking inspiration from alien, dead space and classic zelda titles, users awake to find their ship void of life and near self-destruct.
 
-put a video here please
+Here is a full developer run through of space place:
+~Insert video man~
 
 ---
 
@@ -33,4 +34,6 @@ Space place was designed as a part of my Game design course and focused mainly o
 
 {% if page.galleries %}{% include image-gallery-index.html %}{% endif %}
 
-Updates about the development of this project can be found in the blog section of this portfolio under the category space place.
+It focuses on 4 main areas each with a unique set of challenges to overcome, upgrades and weapons to find
+
+

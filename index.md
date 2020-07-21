@@ -17,21 +17,15 @@ A 1980's demake of the popular video game 'Rocket League'
 
 ---
 
-### [Space Place](/SpacePlaceProject.md)
-Cosmic horror in 5 minutes!
+### [Open worlds in unity](/OpenWorldsInUnity.md)
+Develop seamless open worlds in Unity 3D
 
-<img src="images/space_place.PNG">
+<img src="http://i3.ytimg.com/vi/nOdQnMDJMpI/hqdefault.jpg">
 
 ---
 
 ### Other things I've worked on
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Space Place](/SpacePlaceProject.md)
 
 ---
-
-updating just to be safe...
