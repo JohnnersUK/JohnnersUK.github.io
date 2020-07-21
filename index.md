@@ -2,14 +2,14 @@
 
 ## Recent Projects 
 
-### [Neural networks and NPCs](/pdf/sample_presentation.pdf)
+### [Neural networks and NPCs](/pdf/OrganicNonPlayableCharacters.md)
 My final year project: Using neural networks to train NPC behaviour.
 
 <img src="images/nn.png">
 
 ---
 
-### [Slothit League](/Slothit-League.md)
+### [Slothit League](/pages/Slothit-League.md)
 
 A 1980's demake of the popular video game 'Rocket League'
 
@@ -17,7 +17,7 @@ A 1980's demake of the popular video game 'Rocket League'
 
 ---
 
-### [Space Place](/Space-Place-Project.md)
+### [Space Place](/pages/Space-Place-Project.md)
 Cosmic horror in 5 minutes!
 
 <img src="images/space_place.PNG">
@@ -33,3 +33,5 @@ Cosmic horror in 5 minutes!
 - [Project 5 Title](http://example.com/)
 
 ---
+
+updating just to be safe...
