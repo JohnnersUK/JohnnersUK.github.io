@@ -24,6 +24,6 @@ And much more!
 
 This project was coded in C# by a team of 4 students, including myself, over the course of one weekend for our universities retro game jam.
 
-The original unity project can be viewed and downloaded from our github repository [here](https://github.com/JohnnersUK/SlothitLeague)
+The original unity project, including a standalone build of the game, can be viewed and downloaded from our github repository [here](https://github.com/JohnnersUK/SlothitLeague). 
 
 _This game has no affiliation with the creators Rocket League, it's just a silly uni project_
