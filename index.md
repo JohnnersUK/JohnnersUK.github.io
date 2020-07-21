@@ -9,7 +9,7 @@ My final year project: Using neural networks to train NPC behaviour.
 
 ---
 
-### [Slothit League](/pages/Slothit-League.md)
+### [Slothit League](/Slothit-League.md)
 
 A 1980's demake of the popular video game 'Rocket League'
 
@@ -17,7 +17,7 @@ A 1980's demake of the popular video game 'Rocket League'
 
 ---
 
-### [Space Place](/pages/Space-Place-Project.md)
+### [Space Place](/Space-Place-Project.md)
 Cosmic horror in 5 minutes!
 
 <img src="images/space_place.PNG">
