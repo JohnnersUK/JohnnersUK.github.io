@@ -4,9 +4,21 @@ title:  "Space Place"
 date:   2017/12/06
 author: Oscar Johnson
 galleries:
-  - title: Link to homepage
+  - title: Escape Pods
     image: /images/spg/spacemap1.png
-    url: /
+    url: /images/spg/spacemap1.png
+  - title: Platforming and puzzle 1
+    image: /images/spg/spacemap2.png
+    url: /images/spg/spacemap2.png
+  - title: Docking bay puzzle
+    image: /images/spg/spacemap3.png
+    url: /images/spg/spacemap3.png
+  - title: The lab and escape
+    image: /images/spg/spacemap4.png
+    url: /images/spg/spacemap4.png
+  - title: Full overview
+    image: /images/spg/spacemap5.png
+    url: /images/spg/spacemap5.png    
 ---
 
 ## Cosmic horror in 5 minutes
