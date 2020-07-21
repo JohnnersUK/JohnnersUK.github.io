@@ -3,6 +3,10 @@ layout: post
 title:  "Space Place"
 date:   2017/12/06
 author: Oscar Johnson
+galleries:
+  - title: Link to homepage
+    image: /images/spg/spacemap1.png
+    url: /
 ---
 
 ## Cosmic horror in 5 minutes
@@ -15,6 +19,6 @@ put a video here please
 ### About
 Space place was designed as a part of my Game design course and focused mainly on the level design, below you can find mock-ups for each section:
 
-{% include image-gallery.html folder="/images/spg" %}
+{% if page.galleries %}{% include image-gallery-index.html %}{% endif %}
 
 Updates about the development of this project can be found in the blog section of this portfolio under the category space place.
