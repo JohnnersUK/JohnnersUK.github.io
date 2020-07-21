@@ -8,7 +8,7 @@ author: Oscar Johnson
 ## Cosmic horror in 5 minutes
 Space place is a short set piece of an puzzle platformer set on an abandoned space ship. Taking inspiration from alien, dead space and classic zelda titles, users awake to find their ship void of life and near self-destruct.
 
-<put a video here please>
+put a video here please
 
 ---
 
