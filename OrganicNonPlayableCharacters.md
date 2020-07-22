@@ -31,7 +31,7 @@ This was achieved by using a series of neural networks all trained independently
 
 <img src="images/NN_flow.png">
  
-For additional reading on my project, my final report can be read [here](/pdf/OrganicNPCsCopy.pdf).
+For additional reading on this project, my final report can be read [here](/pdf/OrganicNPCsCopy.pdf).
  
 ### My final project includes;
 - A series of neural networks designed to work together in a tree.
