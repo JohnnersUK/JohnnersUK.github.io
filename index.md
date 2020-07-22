@@ -17,7 +17,7 @@ A 1980's demake of the popular video game 'Rocket League'
 
 ---
 
-### [Open worlds in unity](/OpenWorldsInUnity.md)
+### [Open worlds in Unity](/OpenWorldsInUnity.md)
 Develop seamless open worlds in Unity 3D
 
 <img src="http://i3.ytimg.com/vi/nOdQnMDJMpI/hqdefault.jpg">
@@ -26,7 +26,7 @@ Develop seamless open worlds in Unity 3D
 
 ### Other things I've worked on
 
-- [Destruction physic in unity 3D](/DestructionPhysics.md)
+- [Destruction physics in Unity 3D](/DestructionPhysics.md)
 - [Space Place](/SpacePlaceProject.md)
 
 ---
