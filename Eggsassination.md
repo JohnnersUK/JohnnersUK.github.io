@@ -12,7 +12,8 @@ Eggsassination is a 4 player co-op party game designed, developed and tested in 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L6qPvoNR-c0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Eggsassination features;
+
+### Eggsassination features:
 - Solo and 4 player party modes
 - A fully featured stealth system
 - A plethora of traps to get lost in

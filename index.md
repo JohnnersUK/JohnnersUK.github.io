@@ -8,7 +8,7 @@ My final year project: Using neural networks to train NPC behaviour.
 <img src="images/nn.png">
 
 ---
-## Unity Projects
+## Game Jams
 ### [Eggsassination](/Eggsassination.md)
 
 Don't crack under the pressure!
@@ -23,17 +23,19 @@ A 1980's demake of the popular video game 'Rocket League'
 <img src="images/sloth_thumb.png">
 
 ---
-
+## Unity technologies
 ### [Open worlds in Unity](/OpenWorldsInUnity.md)
 Develop seamless open worlds in Unity 3D
 
 <img src="images\OpenWorlds.png">
 
+### [Destruction physics in Unity](/DestructionPhysics.md)
+Create earth quaking explosions in unity 3D
+
+<img src="images\DestructionPhysics.png">
 ---
 
 ### Other things I've worked on
-
-- [Destruction physics in Unity 3D](/DestructionPhysics.md)
 - [Space Place](/SpacePlaceProject.md)
 
 ---
