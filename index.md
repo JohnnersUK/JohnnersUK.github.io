@@ -14,7 +14,7 @@ My final year project: Using neural networks to train NPC behaviour.
 Don't crack under the pressure!
 Roll your way to victory in this manic 4 player party game!
 
-<img scr="images/Eggsassination.jpg>
+<img scr="images/Eggsassination.jpg">
 
 ### [Slothit League](/Slothit-League.md)
 
