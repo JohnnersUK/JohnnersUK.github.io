@@ -8,6 +8,13 @@ My final year project: Using neural networks to train NPC behaviour.
 <img src="images/nn.png">
 
 ---
+## Unity Projects
+### [Eggsassination](/Eggsassination.md)
+
+Don't crack under the pressure!
+Roll your way to victory in this manic 4 player party game!
+
+<img scr="images/Eggsassination.jpg>
 
 ### [Slothit League](/Slothit-League.md)
 
