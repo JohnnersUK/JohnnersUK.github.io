@@ -27,7 +27,7 @@ A 1980's demake of the popular video game 'Rocket League'
 ### [Open worlds in Unity](/OpenWorldsInUnity.md)
 Develop seamless open worlds in Unity 3D
 
-<img src="http://i3.ytimg.com/vi/nOdQnMDJMpI/hqdefault.jpg">
+<img src="images\OpenWorlds.png">
 
 ---
 
