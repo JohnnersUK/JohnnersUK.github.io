@@ -9,10 +9,12 @@ Squad Engine was a boiler plate 2D engine built in C++ and DirectX for use in un
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gVPoOwPXrd8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+
 ### Squad engine features:
 - 2D sprite rendering
 - Object texturing, decals and alpha blending
 - A* path finding solutions
 
-This project was coded in C++ by myself, the original project, can be viewed and downloaded from its github repository [here](https://github.com/JohnnersUK/Squad-Engine). 
+This project was coded in C++ by myself and the original project, can be viewed and downloaded from its github repository [here](https://github.com/JohnnersUK/Squad-Engine). 
 

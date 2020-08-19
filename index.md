@@ -33,6 +33,7 @@ Develop seamless open worlds in Unity 3D
 Create earth quaking explosions in unity 3D
 
 <img src="images\DestructionPhysics.png">
+
 ---
 
 ## Other projects
