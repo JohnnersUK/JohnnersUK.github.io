@@ -1,11 +1,8 @@
 ---
 layout: post
-title:  "ASGE Projects (C++)"
+title:  "Eggsassination"
 date:   2018/04/15
 author: Oscar Johnson
----
-## Eggsassination
-
 ---
 ### About
 Eggsassination is a 4 player co-op party game designed, developed and tested in one week by the same team that brought you slothit-league.

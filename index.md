@@ -35,7 +35,14 @@ Create earth quaking explosions in unity 3D
 <img src="images\DestructionPhysics.png">
 ---
 
-### Other things I've worked on
-- [Space Place](/SpacePlaceProject.md)
+## Other projects
+### [Squad engine](SquadEngine.md)
+Squad engine is a 2D, light engine made for university projects
+
+### [ASGE projects](ASGEProjects.md)
+Using OpenGl and c++ to develop and test 2D game mechanics
+
+### [Qt 5.15 development](Qt.md)
+A brief trip down software development avenue
 
 ---
