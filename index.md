@@ -3,7 +3,7 @@
 ## Recent Projects 
 
 ### [Neural networks and NPCs](OrganicNonPlayableCharacters.md)
-My final year project: Using neural networks to train NPC behaviour.
+My final year project: Using neural networks to train NPC behavior.
 
 <img src="images/nn.png">
 
@@ -18,19 +18,19 @@ Roll your way to victory in this manic 4 player party game!
 
 ### [Slothit League](/Slothit-League.md)
 
-A 1980's demake of the popular video game 'Rocket League'
+A 1980's demake of the popular video game 'Rocket League'.
 
 <img src="images/sloth_thumb.png">
 
 ---
 ## Unity technologies
 ### [Open worlds in Unity](/OpenWorldsInUnity.md)
-Develop seamless open worlds in Unity 3D
+Develop seamless open worlds in Unity 3D.
 
 <img src="images\OpenWorlds.png">
 
 ### [Destruction physics in Unity](/DestructionPhysics.md)
-Create earth quaking explosions in unity 3D
+Create earth quaking explosions in unity 3D.
 
 <img src="images\DestructionPhysics.png">
 
@@ -38,12 +38,16 @@ Create earth quaking explosions in unity 3D
 
 ## Other projects
 ### [Squad engine](SquadEngine.md)
-Squad engine is a 2D, light engine made for university projects
+Squad engine is a light, 2D game engine made for university projects.
+
+<img src="images\sq.png">
 
 ### [ASGE projects](ASGEProjects.md)
-Using OpenGl and c++ to develop and test 2D game mechanics
+Using OpenGl and c++ to develop and test 2D game mechanics.
+
+<img src="images\asge.png">
 
 ### [Qt 5.15 development](Qt.md)
-A brief trip down software development avenue
+A brief trip down software development avenue.
 
 ---

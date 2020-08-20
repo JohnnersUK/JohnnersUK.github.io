@@ -26,7 +26,7 @@ After a quick 2D version of the Voronoi function was implemented, that placed ra
 
 <img src="https://wiki.freecadweb.org/images/thumb/a/a9/Part_Slice_Demo.png/600px-Part_Slice_Demo.png">
 
-More research was required however as upon implementing the voronoi algoritm in 2D, the tax on the system of then slicing mesh down into primitives was too high and there was a series of erroneous behavior (Probably to do with the high system cost) that made the project too complex for the 3 week deadline I had. Therefore a more simple approach was required.
+More research was required however as upon implementing the Voronoi algorithm in 2D, the tax on the system of then slicing mesh down into primitives was too high and there was a series of erroneous behavior (Probably to do with the high system cost) that made the project too complex for the 3 week deadline I had. Therefore a more simple approach was required.
 
 Sticking with the same mesh slicing function, a simple function was created to randomly generate a point inside the 3D mesh and then place a series of slices pivoting around that point. This resulted in quite an interesting shattering effect that can be seen in the video above.
 
