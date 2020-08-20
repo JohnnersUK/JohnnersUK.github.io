@@ -27,7 +27,7 @@ This project was coded in c++. The source code for this project can be found [He
 
 Dinky little dino is a simplistic infinite runner currently under development by Oscar Johnson (Me). You play as a blood fuelled dinosaur who must scale the mountainous terrain of the far east, smashing anything that gets in your way.
 
-<iframe src='https://gfycat.com/ifr/InsecureCompassionateKinglet' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe>
+<iframe src='https://gfycat.com/ifr/InsecureCompassionateKinglet' frameborder='0' scrolling='no' width='10%' height='10%' allowfullscreen></iframe>
 
 As of alpha build 0.1 the game has semi-feature terrain generation with a controllable character, along with a simple scoring system. The future road map would look as follows;
 
